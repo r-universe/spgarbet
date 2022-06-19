@@ -1,0 +1,10 @@
+[
+  {
+    "package": "rccola",
+    "oncran": true
+  },
+  {
+    "package": "tangram",
+    "oncran": true
+  }
+]
