@@ -8,8 +8,3 @@
 	url = https://github.com/spgarbet/rccola
 	shallow = true
 	registered = true
-[submodule "tangram"]
-	path = tangram
-	url = https://github.com/spgarbet/tangram
-	shallow = true
-	registered = true
