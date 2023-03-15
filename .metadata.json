@@ -1,5 +1,13 @@
 [
   {
+    "package": "emg",
+    "oncran": true
+  },
+  {
+    "package": "fracprolif",
+    "oncran": true
+  },
+  {
     "package": "rccola",
     "oncran": true
   },

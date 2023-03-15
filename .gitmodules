@@ -3,6 +3,16 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "emg"]
+	path = emg
+	url = https://github.com/spgarbet/emg
+	shallow = true
+	registered = true
+[submodule "fracprolif"]
+	path = fracprolif
+	url = https://github.com/spgarbet/fracprolif
+	shallow = true
+	registered = true
 [submodule "rccola"]
 	path = rccola
 	url = https://github.com/spgarbet/rccola
