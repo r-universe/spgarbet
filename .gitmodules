@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "acepack"]
+	path = acepack
+	url = https://github.com/cran/acepack
+	shallow = true
+	registered = true
 [submodule "emg"]
 	path = emg
 	url = https://github.com/spgarbet/emg
