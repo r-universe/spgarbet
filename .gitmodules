@@ -1,30 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "acepack"]
 	path = acepack
 	url = https://github.com/cran/acepack
-	shallow = true
-	registered = true
 [submodule "emg"]
 	path = emg
 	url = https://github.com/spgarbet/emg
-	shallow = true
-	registered = true
 [submodule "fracprolif"]
 	path = fracprolif
 	url = https://github.com/spgarbet/fracprolif
-	shallow = true
-	registered = true
 [submodule "rccola"]
 	path = rccola
 	url = https://github.com/spgarbet/rccola
-	shallow = true
-	registered = true
 [submodule "tangram"]
 	path = tangram
 	url = https://github.com/spgarbet/tangram
-	shallow = true
-	registered = true
