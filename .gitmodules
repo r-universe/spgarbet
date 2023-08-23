@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "acepack"]
-	path = acepack
-	url = https://github.com/cran/acepack
 [submodule "emg"]
 	path = emg
 	url = https://github.com/spgarbet/emg
